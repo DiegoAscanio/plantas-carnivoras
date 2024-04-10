@@ -1,6 +1,12 @@
+html {
+    font-family: Arial, sans-serif;
+}
+
 body {
-    font-family: sans-serif;
-    background-color: #dbdccf;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+p {
+    text-align: justify;
 }
