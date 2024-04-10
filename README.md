@@ -18,7 +18,7 @@ página web.
 ![Modelo da página inicial com anotações mostrando os detalhes de elementos e estilização](documentos-do-tio/pagina-inicial-specs.png)
 
 Você deve pegar o documento do seu tio (arquivo:
-`/documentos-do-tio/pagina-inicial-specs.pdf`) e criar uma página web com o
+[`/documentos-do-tio/pagina-inicial-specs.pdf`](documentos-do-tio/pagina-inicial-specs.pdf)) e criar uma página web com o
 mesmo conteúdo e formatação. Observe que é possível abrir o PDF para
 copiar/colar o texto (não perca tempo digitando =). Salve o arquivo como
 `index.html` (ver [FAQ](#faq)).

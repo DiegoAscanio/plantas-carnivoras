@@ -10,3 +10,8 @@ body {
 p {
     text-align: justify;
 }
+
+img {
+    display: inline-block;
+    width: auto;
+}
